@@ -1,4 +1,4 @@
-import { adduser,readuser }from "./global.js"
+import { adduser,readuser, servicegoogle }from "./global.js"
 
 const caja = document.getElementById('freg')
 const btn = document.getElementById('btnsearch')
