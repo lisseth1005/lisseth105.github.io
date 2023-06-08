@@ -43,6 +43,7 @@ async function buscar(){
 
 window.addEventListener('DOMContentLoaded',async()=>{
     btn.addEventListener('click',buscar)
+    googlebtn.addEventListener('click',google)
 } )
 
 caja.addEventListener('submit',(e)=>{
