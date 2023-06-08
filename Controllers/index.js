@@ -41,6 +41,10 @@ async function buscar(){
       }
 }
 
+async function google(){
+    window.location.href= "../Templates/index.html"
+}
+
 window.addEventListener('DOMContentLoaded',async()=>{
     btn.addEventListener('click',buscar)
     googlebtn.addEventListener('click',google)
