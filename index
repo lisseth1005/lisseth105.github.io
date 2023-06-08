@@ -12,7 +12,7 @@
   </head>
   <body>
     <div class="container">
-    <input type="button" id="btngoogle" value="base de datos" class="btn btn-info">
+    <input type="button" id="btngoogle" value="iniciar sesion" class="btn btn-info">
         <br>
         <br>
         <br>
