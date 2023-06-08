@@ -12,6 +12,7 @@
   </head>
   <body>
     <div class="container">
+    <input type="button" id="btngoogle" value="base de datos" class="btn btn-info">
         <br>
         <br>
         <br>
