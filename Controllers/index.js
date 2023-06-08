@@ -4,6 +4,7 @@ const caja = document.getElementById('freg')
 const btn = document.getElementById('btnsearch')
 const mostrar = document.getElementById('container1')
 
+const googlebtn= document.getElementById('btngoogle')
 
 async function buscar(){
     const ced = document.getElementById('inputcodigo').value
